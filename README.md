@@ -4,7 +4,7 @@
 
 🚀 **Current Journey:** Embarking on a coding journey with the [Hack Your Future Belgium](https://github.com/HackYourFutureBelgium)
 
-💡 **Tech Toolbox:** Currently learning skills in Full Stack development.[see my progress](https://github.com/jgchoti/studynote)
+💡 **Tech Toolbox:** Currently learning skills in Full Stack development.[(View my progress)](https://github.com/jgchoti/studynote)
 
 📚 **Interests:** Always advocating for women's equality and tourism sustainability.
 
