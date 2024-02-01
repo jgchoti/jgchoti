@@ -12,4 +12,4 @@
 
 Let's connect! 💻✨
 
-![jgchoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgchoti)]
+![jgchoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgchoti)
