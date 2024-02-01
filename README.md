@@ -10,6 +10,5 @@
 
 🎮 **Talk to me about:** Farming games 🌱, city planning games 🏙️, and anything related to cats and dogs 🐾!
 
-Let's connect! 💻✨
 
 ![jgchoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgchoti)
