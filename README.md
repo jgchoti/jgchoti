@@ -1,4 +1,4 @@
-### 👋🏽 Hey! I'm ![Choti](https://github.com/jgchoti/jgchoti/blob/main/choti-logo.png)
+### 👋🏽 Hey! I'm ![Choti](https://github.com/jgchoti/jgchoti/blob/main/logo_choti.png)
 
 🌏 **Background:** Thai Now in Belgium 🇧🇪. I've lived in 🇹🇭 🇨🇭 🇬🇧 🇲🇻 🇲🇾 🇩🇰 🇸🇮 🇪🇸.
 
