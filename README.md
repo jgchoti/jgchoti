@@ -1,11 +1,10 @@
-### 👋🏽 Hey! I'm Choti.
+### 👋🏽 Hi, I'm Choti!
 
-🚀 **Current Journey:** Embarking on a coding journey with the [Hack Your Future Belgium](https://github.com/HackYourFutureBelgium)
+🚀 **Full Stack Developer & Alumni:** Proud graduate of [HackYourFuture Belgium](https://github.com/HackYourFutureBelgium).
 
-💡 **Tech Toolbox:** Currently learning skills in Full Stack development.[(View)](https://github.com/jgchoti/studynote)
+💻 **Tech Toolbox:** Building on my Full Stack development skills —[see my notes here](https://github.com/jgchoti/studynote)— while also diving into data analysis and science with [study notes in data](https://github.com/jgchoti).
 
-📚 **Interests:** Always advocating for women's equality and tourism sustainability.
-
+🌍 **Passions:** Advocating for women's equality and sustainable tourism.
 
 ---
 
