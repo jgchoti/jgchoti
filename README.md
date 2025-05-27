@@ -1,8 +1,10 @@
 ### 👋🏽 Hi, I'm Choti!
 
-💻 **Tech Toolbox:** Building on my Full Stack development skills —[see my notes here](https://github.com/jgchoti/studynote)— while also diving into data analysis and science with [study notes in data science](https://github.com/jgchoti/studynote-data)
+🚀 **Current:** I'm learning Data & AI at BeCode and sharing my [study notes in data science](https://github.com/jgchoti/studynote-data) along the way.
 
-🌍 **Passions:** Advocating for women's equality and sustainable tourism.
+💻 **My background:**  A background in Full Stack development [see my study notes here](https://github.com/jgchoti/studynote)
+
+🌍 **What I care about:** I’m passionate about women’s equality and sustainable tourism, and love finding ways to make a positive impact.
 
 ---
 
