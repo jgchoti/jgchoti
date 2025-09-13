@@ -6,7 +6,7 @@
 - 💻 **Background:** Full-stack developer - [see my journey](https://github.com/jgchoti/studynote)
 - 🌍 **Passionate about:** Women's equality, sustainable tourism, tech for good
 - 🎮 **Love:** Cozy pixel games *
-- 
+
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
