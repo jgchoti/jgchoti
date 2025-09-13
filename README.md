@@ -1,8 +1,11 @@
 ### 👋🏽 Hi, I'm Choti!
 
 🚀 **Current:** Data science student sharing my [study notes](https://github.com/jgchoti/studynote-data)
+
 💻 **Background:** Full-stack developer - [see my journey](https://github.com/jgchoti/studynote)
+
 🌍 **Passionate about:** Women's equality, sustainable tourism, tech for good
+
 🎮 **Love:** Cozy pixel games *
 
 ### 🛠️ Tech Stack
