@@ -5,7 +5,7 @@
 - 🚀 **Current:** Data science student sharing my [study notes](https://github.com/jgchoti/studynote-data)
 - 💻 **Background:** Full-stack developer - [see my journey](https://github.com/jgchoti/studynote)
 - 🌍 **Passionate about:** Women's equality, sustainable tourism, tech for good
-- 🎮 **Love:** Cozy pixel games *
+- 🎮 **Love:** Cozy pixel games (hint: * Stardew Valley * , farm girl since harvestmoon)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
