@@ -19,4 +19,3 @@ Machine Learning • MLOps • Apache Spark • Cloud Platforms (AWS/Azure) • 
 ### 💡 About My Repos
 From serious data science to playful experiments - coding with curiosity! 🌸
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jgchoti&show_icons=true&theme=default)
