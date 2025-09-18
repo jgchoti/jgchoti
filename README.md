@@ -17,5 +17,5 @@
 Machine Learning • MLOps • Apache Spark • Cloud Platforms (AWS/Azure) • Data Pipelines
 
 ### 💡 About My Repos
-From serious data science to playful experiments - coding with curiosity! 🌸
+From serious data science to playful experiments — coding with curiosity! 🌸 Some of my repo READMEs are inspired by pop hits. Check them out! 🎶
 
