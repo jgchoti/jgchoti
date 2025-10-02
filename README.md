@@ -1,5 +1,7 @@
 ### 👋🏽 Hi, I'm Choti!
 
+![Choti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgchoti&show_icons=true&theme=transparent)
+
 ---
 
 - 🚀 **Current:** Data science student sharing my [study notes](https://github.com/jgchoti/studynote-data)
@@ -19,4 +21,4 @@ Machine Learning • MLOps • Apache Spark • Cloud Platforms (AWS/Azure) • 
 ### 💡 About My Repos
 From serious data science to playful experiments — coding with curiosity! 🌸 Some of my repo READMEs are inspired by pop hits. Check them out! 🎶
 
-![Choti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgchoti&show_icons=true&theme=transparent)
+
